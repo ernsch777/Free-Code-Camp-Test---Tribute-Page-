@@ -1,2 +1,3 @@
 1. I am going to upload all of my Free Code Camp online tests to Git and this is the first one. Super simple tribute page with some text, an image, a link, and some basic styling. It's not a page that I would put online myself but I am going to stick pretty close to their tests for their course's completeness sake. 
 2. Had some issues centering my text so I need to clear up the best ways to center when using divs, text, ul's, flex, and grid. 
+3. Submitted my code to Free Code Camp's tests but had to change the global CSS declartions to make their CSS tests work properly.  Also, the "a" link needed to include the full "_blank" as the "_" was not enough to pass all tests and get the sign off. 
